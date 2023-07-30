@@ -1,0 +1,26 @@
+.containerCard{
+    border: 1px solid #ccc; 
+    height :320px;
+    width :220px;
+    text-align: center;
+    margin: 16px;
+    border-radius: 3%;
+    overflow: hidden;
+}
+.shopImage{ 
+    height: 140px;
+    width: 100%;
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+}
+
+.head{
+  padding: 10px;
+}
+.butn{
+   margin-top: 10px;
+}
+.salebtn{
+  background-color: rgb(18, 19, 20);
+  color: white;
+}

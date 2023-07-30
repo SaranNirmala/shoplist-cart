@@ -1,0 +1,7 @@
+.cardContainer{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 24px;
+    padding:24px;
+}
